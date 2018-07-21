@@ -17,6 +17,7 @@
     "dockerfile"
   ],
   "author": "ruthvikshandilya",
+  "license": "ISC",
   "devDependencies": { "test": ">=0.6.0" }
 }
 
